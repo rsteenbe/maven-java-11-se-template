@@ -3,7 +3,7 @@
 Quick start template to build Java SE apps.
 
 ## How to run the Java SE application
-Clone repositorie and go to `${project-home}/`.
+Clone repository and go to `${project-home}/`.
 
 Build the project with the following command:
 
